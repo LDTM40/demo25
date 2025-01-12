@@ -3,3 +3,4 @@ Amazon
 Apple
 Netflix
 Google
+Nvidia
